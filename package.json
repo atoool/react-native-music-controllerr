@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-music-controllerr.git",
-    "baseUrl": "https://github.com/github_account/react-native-music-controllerr"
+    "url": "git+https://github.com/atoool/react-native-music-controllerr.git",
+    "baseUrl": "https://github.com/atoool/react-native-music-controllerr"
   },
   "keywords": [
     "react-native"
